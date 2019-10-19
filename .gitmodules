@@ -14,3 +14,6 @@
 [submodule "lib/lufa"]
 	path = lib/lufa
 	url = https://github.com/qmk/lufa
+[submodule "keyboards/planck/keymaps/gero"]
+	path = keyboards/planck/keymaps/gero
+	url = git@github.com:DarkThrone/planck_gero_rev5.git
